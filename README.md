@@ -6,19 +6,13 @@ A simple Quiz App that contains a set of curated questions and its answers and c
 ### Show some ❤️ and star the repo to support the project
 
 ## 🛠 Skills
-Kotlin, Android Studio, Flutter...
+Kotlin, Android Studio....
 
 
 ## Screenshots
-
-![App Screenshot]()
-![App Screenshot]()
-
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-
-
+<p float="left">
+<img src="quiz app1.jpg" width="200" />   <img src="quizapp2.jpg" width="200" />   <img src="quizapp3.jpg" width="200" />                                                <img src="quizapp4.jpg" width="200" />   <img src="quizapp5.jpg" width="200" />   <img src="quizapp6.jpg" width="200" />
+</p>
 
 ## 🚀 About Me
 - 👋 Hi, I’m @SandeepSaini9
